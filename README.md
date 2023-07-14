@@ -9,7 +9,9 @@
 ![Hulu Clone Desktop View](/img/screen.png)
 
 ### Mobile View
-<img src="/img/mobileScreen.png" alt="Hulu Clone Mobile View" width="300">
+<p align="center">
+  <img src="/img/mobileScreen.png" alt="Hulu Clone Mobile View" width="300">
+</p>
 
 ## Features
 
